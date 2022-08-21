@@ -1,0 +1,63 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.dev{
+    display: flex;
+    padding: 5%;
+}
+.header-section{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 100%;
+    padding-left: 10px;
+}
+.half-width img{
+    width: 100%;
+    
+}
+h1{
+    font-size: 80px;
+}
+.text-orange{
+    color: orange;
+}
+.link-btn{
+    
+    text-decoration: none;
+    padding:10px 40px;
+    background-image: linear-gradient(rgb(230, 160, 148), tomato);
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius:10px;
+}
+.text{
+    text-align: justify;
+}
+.big-dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.exprience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.dev-about{
+    box-shadow: 10px 10px 40px gainsboro;
+    padding: 30px;
+    margin-left: 60px;
+}
+#full-stack-dev{
+    border-left:7px solid tomato;
+}
+#baby-stack-dev{
+border-left:7px solid blueviolet;
+}
+footer p{
+    text-align: center;
+}
